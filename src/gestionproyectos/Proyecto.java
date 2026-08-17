@@ -6,4 +6,9 @@ public class Estudiante {
         this.nombre = nombre;
         this.edad = edad;
      }
+
+     public calcularAvance(){
+
+     }
 }
+
