@@ -1,6 +1,5 @@
 
 public class Tarea { 
-
     String Titulo;
     Date fechadeentrega;
     boolean hizolatarea;
