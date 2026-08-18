@@ -1,0 +1,3 @@
+class Guerrero extends Tarea{
+
+}
