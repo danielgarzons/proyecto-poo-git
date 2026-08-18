@@ -1,10 +1,10 @@
-public class Estudiante {
-     String nombre;
-     int edad;
+public class Proyecto {
+     String nombreproyecto;
+     int cantidadintegrantes;
 
-     public Estudiante (String nombre, int edad){
-        this.nombre = nombre;
-        this.edad = edad;
+     public DatosGrupoProyecto (String nombreproyecto, int cantidadintegrantes){
+        this.nombreproyecto = nombreproyecto;
+        this.cantidadintegrantes = cantidadintegrantes;
      }
      public calcularAvance(){
 
